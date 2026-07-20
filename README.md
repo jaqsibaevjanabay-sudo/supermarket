@@ -9,3 +9,5 @@
 - Динамика продаж по месяцам
 - Топ товаров и топ клиентов
 - Анализ по регионам
+supermarket.png
+![Dashboard Screenshot](supermarket.png)
